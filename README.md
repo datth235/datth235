@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Thanh Dat</h1>
 <h3 align="center">A passionate developer from Vietnam 🇻🇳</h3>
 
+# 💫 About me:
 <p align="left">🔭 I’m student of HaNoi University of science and technology.
 </p>
 
